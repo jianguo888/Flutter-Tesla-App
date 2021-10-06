@@ -23,6 +23,10 @@ GitHub https://github.com/ITmxs/Flutter-Tesla-App
 windows用MokupFrames
 macos用Rotato
 
+Rotato官网：https://www.rotato.app/
+
+Mokup Frames 官网：https://www.mokupframes.com/
+
 ![Preview](https://luckly007.oss-cn-beijing.aliyuncs.com/img/gif.gif)
 
 ![App UI](https://luckly007.oss-cn-beijing.aliyuncs.com/img/ui.png)
