@@ -18,6 +18,11 @@ GitHub https://github.com/ITmxs/Flutter-Tesla-App
 
 ### 特斯拉最终用户界面
 
+对于 3D 介绍制作工具
+
+windows用MokupFrames
+macos用Rotato
+
 ![Preview](https://luckly007.oss-cn-beijing.aliyuncs.com/img/gif.gif)
 
 ![App UI](https://luckly007.oss-cn-beijing.aliyuncs.com/img/ui.png)
